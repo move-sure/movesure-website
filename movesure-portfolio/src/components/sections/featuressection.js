@@ -90,7 +90,7 @@ export default function FeaturesSection() {
       window.removeEventListener('resize', checkMobile)
       document.removeEventListener('mousemove', handleMouseMove)
     }
-  }, [isMobile])
+  }, [isMobile, features.length])
 
   return (
     <section 

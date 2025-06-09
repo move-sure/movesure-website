@@ -121,7 +121,7 @@ export default function HeroSection() {
             <div className="block">
               <div className="inline-flex items-center space-x-2 bg-gradient-to-r from-violet-50 to-blue-50 border border-violet-200 rounded-full px-6 py-3 shadow-md text-sm hover:shadow-lg transition-all duration-300">
                 <Sparkles className="w-4 h-4 text-violet-600" />
-                <span className="text-violet-700 font-bold">INDIA'S FIRST AI STARTUP FOR LOGISTICS & BILLING SOFTWARE</span>
+                <span className="text-violet-700 font-bold">INDIA&apos;S FIRST AI STARTUP FOR LOGISTICS & BILLING SOFTWARE</span>
                 <Zap className="w-4 h-4 text-purple-600" />
               </div>
             </div>

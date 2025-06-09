@@ -221,7 +221,7 @@ export default function BenefitsTestimonialsSection() {
                 <div className="relative bg-gradient-to-br from-white to-gray-50 rounded-2xl p-8 shadow-xl border border-gray-100 hover:border-gray-200 transition-all duration-500 hover:shadow-2xl transform hover:-translate-y-1 h-full">
                   
                   {/* Quote mark */}
-                  <div className="absolute top-6 right-6 text-4xl text-gray-200 font-serif opacity-50">"</div>
+                  <div className="absolute top-6 right-6 text-4xl text-gray-200 font-serif opacity-50">&ldquo;</div>
                   
                   {/* Rating */}
                   <div className="flex items-center space-x-1 mb-6">
@@ -235,7 +235,7 @@ export default function BenefitsTestimonialsSection() {
                   </div>
                   
                   <p className="text-gray-700 mb-8 text-lg leading-relaxed group-hover:text-gray-800 transition-colors">
-                    "{testimonial.content}"
+                    &ldquo;{testimonial.content}&rdquo;
                   </p>
                   
                   <div className="flex items-center space-x-4">
