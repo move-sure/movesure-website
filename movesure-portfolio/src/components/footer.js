@@ -98,7 +98,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              Revolutionizing logistics with India's first AI-powered transport management solutions. 
+              Revolutionizing logistics with India&apos;s first AI-powered transport management solutions. 
               Smart, efficient, and reliable bilty management for the modern business.
             </p>
             
